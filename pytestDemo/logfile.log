@@ -1,0 +1,102 @@
+2022-12-08 21:07:46,766 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-08 21:07:46,767 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-08 21:07:46,767 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-08 21:07:46,767 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-08 21:09:27,255 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-08 21:09:27,256 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-08 21:09:27,256 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-08 21:09:27,256 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-08 21:09:27,256 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-09 22:07:57,053 :INFO: pytestDemo.Baseclass : Hari
+2022-12-09 22:07:57,053 :INFO: pytestDemo.Baseclass : krishna
+2022-12-09 22:19:34,989 :INFO: pytestDemo.Baseclass : Hari
+2022-12-09 22:19:34,990 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 19:25:33,614 :INFO: pytestDemo.Baseclass : Hari
+2022-12-19 19:25:33,615 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 19:25:33,626 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-19 19:25:33,627 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-19 19:25:33,627 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-19 19:25:33,628 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-19 19:25:33,628 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-19 19:26:29,068 :INFO: pytestDemo.Baseclass : Hari
+2022-12-19 19:26:29,068 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 19:26:29,068 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-19 19:26:29,068 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-19 19:26:29,081 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-19 19:26:29,081 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-19 19:26:29,081 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-19 19:27:24,803 :INFO: pytestDemo.Baseclass : Hari
+2022-12-19 19:27:24,803 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 19:27:24,819 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-19 19:27:24,819 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-19 19:27:24,819 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-19 19:27:24,819 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-19 19:27:24,819 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-19 19:27:41,487 :INFO: pytestDemo.Baseclass : Hari
+2022-12-19 19:27:41,487 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 19:27:41,502 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-19 19:27:41,502 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-19 19:27:41,502 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-19 19:27:41,502 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-19 19:27:41,502 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-19 19:27:54,911 :INFO: pytestDemo.Baseclass : Hari
+2022-12-19 19:27:54,911 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 19:27:54,915 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-19 19:27:54,915 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-19 19:27:54,915 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-19 19:27:54,915 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-19 19:27:54,915 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-19 19:28:18,514 :INFO: pytestDemo.Baseclass : Hari
+2022-12-19 19:28:18,514 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 19:28:18,514 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-19 19:28:18,514 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-19 19:28:18,514 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-19 19:28:18,530 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-19 19:28:18,530 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-19 19:29:30,753 :INFO: pytestDemo.Baseclass : Hari
+2022-12-19 19:29:30,753 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 19:29:30,759 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-19 19:29:30,759 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-19 19:29:30,759 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-19 19:29:30,759 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-19 19:29:30,759 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-19 20:07:14,310 :INFO: pytestDemo.Baseclass : Hari
+2022-12-19 20:07:14,310 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 20:07:14,315 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-19 20:07:14,316 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-19 20:07:14,316 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-19 20:07:14,316 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-19 20:07:14,316 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-19 20:11:33,456 :INFO: pytestDemo.Baseclass : Hari
+2022-12-19 20:11:33,457 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 20:11:33,462 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-19 20:11:33,463 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-19 20:11:33,463 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-19 20:11:33,463 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-19 20:11:33,464 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-19 23:37:45,260 :INFO: pytestDemo.Baseclass : Hari
+2022-12-19 23:37:45,260 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 23:37:45,262 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-19 23:37:45,262 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-19 23:37:45,262 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-19 23:37:45,262 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-19 23:37:45,262 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-19 23:38:21,820 :INFO: pytestDemo.Baseclass : Hari
+2022-12-19 23:38:21,820 :INFO: pytestDemo.Baseclass : krishna
+2022-12-19 23:38:21,820 :DEBUG: pytestDemo.test_loggging : a debug statement is executed
+2022-12-19 23:38:21,820 :INFO: pytestDemo.test_loggging : Information messages
+2022-12-19 23:38:21,820 :WARNING: pytestDemo.test_loggging : something in the warning mode
+2022-12-19 23:38:21,820 :ERROR: pytestDemo.test_loggging : a major error has happened
+2022-12-19 23:38:21,820 :CRITICAL: pytestDemo.test_loggging : critical issue
+2022-12-20 23:09:47,017 :INFO: pytestDemo.Baseclass : Hari
+2022-12-20 23:09:47,018 :INFO: pytestDemo.Baseclass : krishna
+2022-12-20 23:09:49,722 :INFO: pytestDemo.Baseclass : Hari
+2022-12-20 23:09:49,723 :INFO: pytestDemo.Baseclass : krishna
+2022-12-20 23:09:53,001 :INFO: pytestDemo.Baseclass : Hari
+2022-12-20 23:09:53,002 :INFO: pytestDemo.Baseclass : krishna
+2022-12-20 23:10:06,656 :INFO: pytestDemo.Baseclass : Hari
+2022-12-20 23:10:06,656 :INFO: pytestDemo.Baseclass : krishna
+2022-12-20 23:10:12,228 :INFO: pytestDemo.Baseclass : Hari
+2022-12-20 23:10:12,229 :INFO: pytestDemo.Baseclass : krishna
+2022-12-20 23:11:35,972 :INFO: pytestDemo.Baseclass : Hari
+2022-12-20 23:11:35,973 :INFO: pytestDemo.Baseclass : krishna
